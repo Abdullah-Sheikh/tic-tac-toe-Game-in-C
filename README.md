@@ -1,4 +1,13 @@
+
+
+
+
+
+
 # tic-tac-toe-Game-in-C
 In this Game I use concepts  pthreads , process in Linux , Named pipes and Semaphore .
 #Run this program in linux operating system enivronment.
 The game run like that same as Play on server and Player 2 choose as he plays as human or Computer.
+
+https://user-images.githubusercontent.com/62107887/127796061-ac779b1c-b5f0-4bce-9e37-bbf17ffd6e0b.MOV
+
